@@ -1,0 +1,45 @@
+body{
+text-align: center;
+border: 2px solid black;
+width: 1080px;
+height: auto;
+padding-right: 50px;
+background-color: #cccccc;
+}
+
+.description{
+text-align: center;
+}
+
+.recipedetails{
+text-align: center;
+}
+
+.ingredients{
+text-align: center;
+}
+
+.variation{
+text-align: center;
+}
+
+.instructions{
+text-align: center;
+}
+.geenlist{
+list-style-type: none;
+}
+
+li{
+list-style-type: none;
+}
+
+.spaghetti{
+height: 300px;
+width: auto;
+}
+
+.tomato{
+height: 300px;
+width: auto;
+}
